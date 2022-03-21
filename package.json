@@ -1,0 +1,26 @@
+{
+  "name": "neko-bot",
+  "version": "1.0.0",
+  "description": "A discord bot lmao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheBozzz34/001-bot-website.git"
+  },
+  "author": "Sada\\n#9264",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "discord.js": "^13.6.0",
+    "nekos.life": "^2.0.9",
+    "node-fetch": "^3.2.3",
+    "pastebin-api": "^3.0.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  }
+}
